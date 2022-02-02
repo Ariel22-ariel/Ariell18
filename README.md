@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariell18
 - 👀 I’m interested in coding, software engineering
-- 🌱 I’m currently learning diploma in IT
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me 
 
